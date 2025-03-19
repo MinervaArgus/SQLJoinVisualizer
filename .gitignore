@@ -43,3 +43,6 @@ next-env.d.ts
 POA.md
 PRD.md
 
+# git token
+.git_token.txt
+
