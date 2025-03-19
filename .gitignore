@@ -36,3 +36,10 @@ yarn-error.log*
 next-env.d.ts
 
 .env
+
+# cursor
+.cursorrules
+.cursor
+POA.md
+PRD.md
+

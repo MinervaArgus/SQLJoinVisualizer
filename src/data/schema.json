@@ -1,0 +1,23 @@
+{
+  "employees": [
+    { "emp_id": 1, "name": "Alice", "dept_id": 10, "office_id": 100 },
+    { "emp_id": 2, "name": "Bob", "dept_id": 20, "office_id": 200 },
+    { "emp_id": 3, "name": "Charlie", "dept_id": null, "office_id": 100 },
+    { "emp_id": 4, "name": "Diana", "dept_id": 10, "office_id": 200 },
+    { "emp_id": 5, "name": "Eve", "dept_id": 30, "office_id": 300 },
+    { "emp_id": 6, "name": "Frank", "dept_id": 20, "office_id": null },
+    { "emp_id": 7, "name": "Grace", "dept_id": null, "office_id": null },
+    { "emp_id": 8, "name": "Heidi", "dept_id": 40, "office_id": 100 }
+  ],
+  "departments": [
+    { "dept_id": 10, "dept_name": "HR" },
+    { "dept_id": 20, "dept_name": "Engineering" },
+    { "dept_id": 30, "dept_name": "Marketing" },
+    { "dept_id": 40, "dept_name": "Finance" }
+  ],
+  "offices": [
+    { "office_id": 100, "location": "New York" },
+    { "office_id": 200, "location": "London" },
+    { "office_id": 300, "location": "Tokyo" }
+  ]
+} 
